@@ -57,3 +57,6 @@ After the target has put in their login and password, you can see it on your ter
 ![9](https://github.com/victorF29/ZphisherTutorial/assets/145622790/cafebf9f-7bdc-4ef2-95c3-3d6b50c261ab)
 
 Once you have finished you can exit out of the script and the login info and IP will be saved in their respective .txt documents in the zphisher directory! The URL zphisher provides doesn't look very trustworthy so one thing you can do to make the URL look less fishy is by using a URL converter like Grabify or Zamzar.
+
+<h2>DISCLAIMER:</h2>
+<strong>THIS TUTORIAL IS FOR DOCUMENTATION/RESEARCH PURPOSES, THIS INFORMATION IS NOT TO BE USED IN ANY ILLEGAL/IMORAL MANNER. DO NOT USE ZPHISHED FOR ANYTHING OTHER THAN EDUCATIONAL PURPOSES.</strong>
